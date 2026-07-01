@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6v0266/v1
+canonical_location: https://kanripo.org/bkk/KR6v0266/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 郭猛八十人等造塔像記
+  identifiers:
+    alt_id:
+    - I01n0059
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0059.xml
+    old_id: I01n0059
+  edition:
+    short: bkk
+editions:
+- short: 佛拓
+  label: 佛拓
+  source_xml_id: wit.orig
+- short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0266_000.yaml, hash: 'sha256:0fc15bcd343f99c49ba1fa76b824be46b75d238c5e00cee6343403cbf8b24c0a'}
+  - {seq: 1, filename: KR6v0266_001.yaml, hash: 'sha256:7068e0937d8cb01c483396ad26d9f49c236561487f3ace3488bc31d0894a4fe9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0266_001.markers.yaml, hash: 'sha256:3ae74a8dede4276421846b32808291e174377faa5227e5d9dcd04b5a68738a71'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0266_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 326
+  label: 郭猛八十人等造塔像記
+  type: juan
+  level: 1
+hash: sha256:8a6fb4a619631283d40507bf2ea3469791d6760e8de71c494ec5162f18bf50c7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

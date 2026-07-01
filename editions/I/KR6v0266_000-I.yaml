@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0266/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 郭猛八十人等造塔像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0059.xml
+    old_id: I01n0059
+hash: sha256:0fc15bcd343f99c49ba1fa76b824be46b75d238c5e00cee6343403cbf8b24c0a
