@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0266_000.yaml, hash: 'sha256:0fc15bcd343f99c49ba1fa76b824be46b75d238c5e00cee6343403cbf8b24c0a'}
-  - {seq: 1, filename: KR6v0266_001.yaml, hash: 'sha256:7068e0937d8cb01c483396ad26d9f49c236561487f3ace3488bc31d0894a4fe9'}
+  - {seq: 1, filename: KR6v0266_001.yaml, hash: 'sha256:605665b7b506068a525906aba91cffe2261539c3fd5a9a82821fb452b91fa75f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0266_001.markers.yaml, hash: 'sha256:3ae74a8dede4276421846b32808291e174377faa5227e5d9dcd04b5a68738a71'}
+  - {seq: 0, role: markers, filename: assets/KR6v0266_000.markers.yaml, hash: 'sha256:6fbc67ac313ecf97fab5e43faf5bfd231e7bb6148927cbd20d087e2b574a1cca'}
+  - {seq: 1, role: markers, filename: assets/KR6v0266_001.markers.yaml, hash: 'sha256:3053f17bb88b38185008c7dd75a3ae9e19957df5efe7448ddf360b37e47a0b29'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 郭猛八十人等造塔像記
   type: juan
   level: 1
-hash: sha256:8a6fb4a619631283d40507bf2ea3469791d6760e8de71c494ec5162f18bf50c7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2d982b9810401210739f75274f41339bb82d8c2b323759256ef7bb02d0775125
