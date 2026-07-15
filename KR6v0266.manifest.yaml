@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0266/v1
 canonical_location: https://kanripo.org/bkk/KR6v0266/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 郭猛八十人等造塔像記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0266_000.yaml, hash: 'sha256:0fc15bcd343f99c49ba1fa76b824be46b75d238c5e00cee6343403cbf8b24c0a'}
-  - {seq: 1, filename: KR6v0266_001.yaml, hash: 'sha256:605665b7b506068a525906aba91cffe2261539c3fd5a9a82821fb452b91fa75f'}
+  - {seq: 1, filename: KR6v0266_001.yaml, hash: 'sha256:f8d7af6b14ba17142e9369b205a87c108546a93d95901cae6c36ef20bfb30f67'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0266_000.markers.yaml, hash: 'sha256:6fbc67ac313ecf97fab5e43faf5bfd231e7bb6148927cbd20d087e2b574a1cca'}
-  - {seq: 1, role: markers, filename: assets/KR6v0266_001.markers.yaml, hash: 'sha256:3053f17bb88b38185008c7dd75a3ae9e19957df5efe7448ddf360b37e47a0b29'}
+  - {seq: 1, role: markers, filename: assets/KR6v0266_001.markers.yaml, hash: 'sha256:11681056ac03c281e8363b3833b80bd018e4b5b302b6d618a17270330fb25136'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 郭猛八十人等造塔像記
   type: juan
   level: 1
-hash: sha256:2d982b9810401210739f75274f41339bb82d8c2b323759256ef7bb02d0775125
+hash: sha256:b2ae5afda3a3eb7b533eb6684ad26890145e7659cea3485cfafb830d09356994
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
